@@ -115,8 +115,3 @@ pytest -q
 ## Licenza
 
 MIT — vedi LICENSE.
-
-## Note legali
-
-- Non includere nel repo materiale coperto da copyright senza autorizzazione
-- Usa frammenti audio liberi o sintetici per i test (Git LFS consigliato)
